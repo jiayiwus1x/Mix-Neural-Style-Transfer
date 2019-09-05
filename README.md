@@ -5,11 +5,7 @@
 
 ## Description
 
-In this project, I use an idea inspired by one of my research projects. In the project, I created an optimization methodology (inspired by nature) that is able to design adaptable materials. This simply means that I create materials that can change forms/behavior/properties/etc. depending on its environment using the following process:
-
-1. Train a material to learn one goal (form/behavior/property/etc.), until you are satisfied :D
-2. Train the same material to learn another goal, and halt the training when you are satisfied.
-3. Cycle 1. and 2. until .. well .. you are satisfied :P
+In this project, I use an idea inspired by one of my research projects. In the project, I designed adaptable materials using oscillatory optimization goals. I'm letting the learner, which in this case is the optimizer that mimics the style of a painting, repeatedly change its mind about which style it prefers. The learner oscillates between learning how to paint like Van Gogh and learning how to paint like Picasso. After several cycles, the learner ends up painting in a style of its own that has qualities of both!
 
 Note that the code of one goal is heavy adapted from the following link: [NEURAL TRANSFER USING PYTORCH](https://pytorch.org/tutorials/advanced/neural_style_tutorial.html).
 

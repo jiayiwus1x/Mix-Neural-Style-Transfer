@@ -1,4 +1,4 @@
-# Mix style transfer
+# Mixed Neural Style Transfer
 
 ![Image description](https://static.wixstatic.com/media/94d104_d4932d4d0bde443fa6a5ef511762136f~mv2_d_4897_2184_s_2.png)
 (The image in the center is in the combined style of the images on the left and the right.)

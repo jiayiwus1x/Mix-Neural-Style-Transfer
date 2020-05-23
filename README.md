@@ -27,6 +27,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## Futher reading
+## Further reading
 
 [Let machines help you design your own art style](https://www.hallojiayi.com/post/let-machine-help-you-design-your-own-art-style)

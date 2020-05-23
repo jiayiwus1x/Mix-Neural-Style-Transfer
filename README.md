@@ -9,7 +9,7 @@ In this project, I use an idea inspired by one of my academic research projects:
 
 We make use of a technique called Neural Style Transfer to mimic a single style. The code for this subproblem is heavy adapted from the following link: [Neural Transfer using PyTorch](https://pytorch.org/tutorials/advanced/neural_style_tutorial.html).
 
-## Prerequire package
+## Prerequired packages
 
 ```bash
 pip install numpy

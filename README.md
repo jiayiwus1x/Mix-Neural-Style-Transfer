@@ -5,9 +5,9 @@
 
 ## Description
 
-In this project, I use an idea inspired by one of my research projects. In the project, I designed adaptable materials using oscillatory optimization goals. I'm letting the learner, which in this case is the optimizer that mimics the style of a painting, repeatedly change its mind about which style it prefers. The learner oscillates between learning how to paint like Van Gogh and learning how to paint like Picasso. After several cycles, the learner ends up painting in a style of its own that has qualities of both!
+In this project, I use an idea inspired by one of my academic research projects: I designed adaptable materials using oscillatory optimization goals. Here, I'm letting the learner, an algorithm that mimics the style of a painting, repeatedly change its mind about which style it prefers. The learner oscillates between learning how to paint like Van Gogh and learning how to paint like Picasso. After several cycles, the learner ends up painting in a style that has qualities of both!
 
-Note that the code of one goal is heavy adapted from the following link: [NEURAL TRANSFER USING PYTORCH](https://pytorch.org/tutorials/advanced/neural_style_tutorial.html).
+We make use of a technique called Neural Style Transfer to mimic a single style. The code for this subproblem is heavy adapted from the following link: [NEURAL TRANSFER USING PYTORCH](https://pytorch.org/tutorials/advanced/neural_style_tutorial.html).
 
 ## Prerequire package
 

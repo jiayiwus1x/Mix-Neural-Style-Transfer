@@ -20,7 +20,7 @@ pip install matplotlib
 
 ## Usage
 
-Following along the jupyter notebook
+Following along the jupyter notebook oscillating_using_pytorch-ongithub_final.ipynb
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
